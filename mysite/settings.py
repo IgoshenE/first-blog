@@ -25,7 +25,7 @@ SECRET_KEY = ')wnlip#cg0fj#4(y1fq7c8!%qf3qhvyq%@&e$vh$*&*m!bw@ur'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [http://'127.0.0.1', 'igoshene.pythonanywhere.com',]
+ALLOWED_HOSTS = ['127.0.0.1', 'igoshene.pythonanywhere.com',]
 
 
 # Application definition
