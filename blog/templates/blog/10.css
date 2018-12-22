@@ -1,0 +1,191 @@
+
+/*navbar  */
+
+nav{
+  background-color: grey;
+}
+
+nav a{
+  color: red;
+}
+
+
+nav a:hover{
+  color: white;
+}
+nav a:active{
+  color:red;
+}
+
+
+#carouselExampleIndicators div{
+  border-radius: 7px;
+}
+
+
+
+/* first page accordeon */
+
+#accordeon {
+    width: 650px;
+    margin-left: 300px;
+    background-color: lightblue;
+    box-shadow: 0 6px 4px -4px rgba(0, 0, 0, .2);
+    position: relative;
+    top: 40px;
+
+}
+
+.item1 {
+    padding: 10px;
+    background: white;
+    margin-top: 1px;
+}
+
+.item2 {
+    padding: 10px;
+    border-bottom: 1px;
+    margin-bottom: 5px;
+    display: none;
+    background: grey;
+    margin-top: 1px;
+
+}
+
+
+
+em{
+  color: white;
+}
+
+.carousel h4{
+  color: white;
+}
+
+
+
+#firsta{
+  position: relative;
+  top:8px;
+}
+
+.collapse a{
+  font-size: 19px;
+}
+
+/* #main{
+  background-color: red;
+  width: 900px;
+  height: 500px;
+  margin-left: 250px;
+  margin-top: 30px;
+}
+
+#left{
+  background-color: grey;
+  width: 600px;
+  height: 400px;
+  margin: 20px;
+  display: inline-block;
+}
+
+#right{
+  background-color: green;
+  width: 210px;
+  height: 400px;
+  margin: 20px;
+  display: inline-block;
+  position: relative;
+  top:-400px;
+
+}
+
+#up{
+  background-color: yellow;
+  width: 600px;
+  height: 70px;
+} */
+
+table{
+  margin-left: 290px;
+  margin-top: 80px;
+}
+
+
+/* footer */
+
+footer{
+  background-color: grey;
+  width: 100%;
+  margin-top: 100px;
+}
+
+footer a{
+  color: red;
+  font-size: 17px;
+}
+
+footer a:hover{
+  color: white;
+}
+footer a:active{
+  color:red;
+}
+
+
+
+
+  #news1{
+    background-image: url("7.jpg");
+    height: 200px;
+    border-radius: 7px;
+  }
+  #news1 h6{
+    color: grey;
+  }
+
+
+
+  #news2{
+    background-image: url("5.jpg");
+    height: 200px;
+    border-radius: 7px;
+  }
+  #news2 a{
+    color: grey;
+  }
+
+
+
+  #news3{
+    background-image: url("6.jpg");
+    height: 200px;
+    border-radius: 7px;
+  }
+  #news3 h6{
+    color: grey;
+  }
+
+
+
+    #carouselExampleIndicators{
+    height: 500px;
+  }
+
+  img{
+    height: 500px;
+  }
+
+
+
+
+
+
+
+
+
+
+  .list, li{
+    margin-left: 20px;
+    display: inline-block;
+    position: relative;
